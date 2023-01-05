@@ -543,6 +543,7 @@ img
 .service-section .service-item-inner:hover p span
 {
     color: var(--black-100);
+    font-weight:700;
     /*color:brown;*/
 }
 /*===== portfolio =====*/
