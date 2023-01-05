@@ -540,6 +540,9 @@ img
     line-height: 26px;
     transition: all 0.3s ease;
 }
+.fs h3:hover{
+    font-size:2rem;
+}
 .service-section .service-item-inner:hover p span
 {
     color: var(--black-100);
