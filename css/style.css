@@ -531,7 +531,6 @@ img
 .service-section .service-item-inner:hover h3
 {
     color: var(--white);
-    font-size:2rem;
 }
 .service-section .service-item-inner p
 {
