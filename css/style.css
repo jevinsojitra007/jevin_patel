@@ -542,8 +542,8 @@ img
 }
 .service-section .service-item-inner:hover p span
 {
-    /* color: var(--black-100); */
-    color:brown;
+    color: var(--black-100);
+    /*color:brown;*/
 }
 /*===== portfolio =====*/
 .portfolio .portfolio-filter
